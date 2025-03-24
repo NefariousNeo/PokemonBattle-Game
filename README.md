@@ -23,12 +23,14 @@ The game logic is implemented in the `main()` function. Here is a brief overview
 - **Victory Conditions**: The game ends when either all opponent Pokémon are defeated or the user's Pokémon's HP reaches zero.
 
 ## Installation
+Use your terminal.
+
 First, clone this repository:
-```
+```bash
 git clone https://github.com/NefariousNeo/PokemonBattle-Game
 ```
 Next, navigate to the project directory:
-```
+```bash
 cd PokemonBattle-Game
 ```
 
@@ -36,7 +38,7 @@ Ensure you have Python installed!
 If not, download it here: https://www.python.org/downloads/
 
 Run the game:
-```
+```bash
 python main.py
 ```
 
